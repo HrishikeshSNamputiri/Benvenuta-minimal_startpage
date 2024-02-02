@@ -1,5 +1,5 @@
 function toggleText() {
-  const text1 = document.getElementById("text1");
+  const text1 = document.getElementById("text2");
   const text2 = document.getElementById("text2");
   const toggleButton = document.getElementById("toggleButton");
 
